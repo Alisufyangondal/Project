@@ -2,7 +2,7 @@
 
 This project focuses on forecasting sunspot numbers using various time series analysis techniques. The goal is to predict future sunspot activity based on historical data.
 
-## Notebook: forecast_V6.ipynb
+## Notebook: forecast_V7.ipynb
 
 ### Overview
 
