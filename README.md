@@ -6,7 +6,7 @@ This project focuses on forecasting sunspot numbers using various time series an
 
 ### Overview
 
-The `forecast_V6.ipynb` notebook explores several time series models to forecast sunspot numbers. It includes data preprocessing, model building, training, and evaluation. The notebook uses historical sunspot data to predict future trends.
+The `forecast_V7.ipynb` notebook explores several time series models to forecast sunspot numbers. It includes data preprocessing, model building, training, and evaluation. The notebook uses historical sunspot data to predict future trends.
 
 ### Libraries Used
 
